@@ -15,6 +15,7 @@ package uart_pkg;
 	`include "uart_dst_monitor.sv"
 	`include "uart_dst_agt.sv"
 
+	`include "uart_scoreboard.sv"
 	`include "uart_env.sv"
 	`include "uart_test_lib.sv"
 endpackage
